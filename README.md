@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O projeto DevLinks é um agregador de links para usar como cartão de visitas online.
 
-## 🔖 Layout
+## 🔖 Visualizar o projeto
 
 Você pode visualizar o projeto através [DESSE LINK](https://matt-oliveira.github.io/DevLinks/).
 
