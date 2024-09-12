@@ -44,9 +44,9 @@ body{
 
 #container{
   width: 100%;
-  max-width: 588;
+  max-width: 588px;
   margin: 56px auto 0px;
-  padding-top: 56px;
+  padding-top: 0 24px;
   /* margin-right: auto;
   margin-left: auto; 
   resumo = margin auto */
